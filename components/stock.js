@@ -385,7 +385,7 @@ export default class Stock extends React.Component {
                         </button>
                       </div>
                       <div className="px-8 pb-8 pt-4 w-1/3">
-                        <button className="bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 w-full rounded-lg" disabled id="btnNext" onClick={this.statePageNext}>
+                        <button className="bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 w-full rounded-lg" disabled id="nbcc">
                           {this.state.nb} résultats
                         </button>
                       </div>
