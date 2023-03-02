@@ -311,7 +311,7 @@ export default class VehiculeUnique extends React.Component {
                 
                 <div>
                     <Helmet>
-                        <title>Normandie Camping-car - {cc.marque + " " + cc.modele + " " + cc.version}</title>
+                        <title>Carpiquet Camping car - {cc.marque + " " + cc.modele + " " + cc.version}</title>
                     </Helmet>
                     <div className="text-sm breadcrumbs w-full 2xl:px-16 md:px-6 px-4">
                         <ul>
